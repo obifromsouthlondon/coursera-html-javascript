@@ -9,5 +9,6 @@ Maureen's hobbies
 - Cooking
 - Films
 - Research
+- Running
 ## Photos
 <img src="https://149359388.v2.pressablecdn.com/wp-content/uploads/2024/01/689ae0b4b2a8ee1d6204ee331d211bd0-fW1iBf.tmp_.jpg" alt="cooking" width="600" height="400"/>
