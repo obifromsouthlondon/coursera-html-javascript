@@ -4,3 +4,6 @@ This is an intro to maureen
 Maureen's course
 ## Section 2
 Maureen's hobbies
+- Cooking
+- Films
+- Research
